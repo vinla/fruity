@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Fruity/.vs/Fruity/v15
+/Fruity/bin/Debug
+/Fruity/Fruity.Core/bin/Debug
+/Fruity/Fruity.Core/obj/Debug
+/Fruity/Fruity.Tests/bin/Debug
+/Fruity/Fruity.Tests/obj/Debug
+/Fruity/obj/Debug
+/Fruity/packages
+/FruityCli/bin/Debug
+/FruityCli/obj/Debug
